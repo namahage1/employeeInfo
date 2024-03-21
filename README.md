@@ -1,6 +1,6 @@
 
 repository address: git@github.com:namahage1/employeeInfo.git
-deployed URL address:
+deployed URL address:https://namahage1.github.io/employeeInfo/
 
 screenshot of this assignments: 
 ./images/screenshot1.jpg
