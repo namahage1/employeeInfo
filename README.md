@@ -1,5 +1,5 @@
 
-repository address:
+repository address: git@github.com:namahage1/employeeInfo.git
 deployed URL address:
 
 screenshot of this assignments: 
